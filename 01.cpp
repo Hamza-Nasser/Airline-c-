@@ -279,3 +279,6 @@ void addpass(char first_class[5][6], char economy_class[15][6], int listseat[15]
         break;
     }
 }
+
+
+// fdhfdfjkdfdfd
